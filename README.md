@@ -13,6 +13,10 @@ Cambridge.
 The Index formula requires average daily maximum temperature, rainfall
 total, sunshine total, and total number of dry days, in May to August period.
 
+The Index is described in ``Cricket and the Weather'' by Philip Eden,
+in Wisden 1999. (Wisden Cricketers' Almanack 1999, 136th edition, ed 
+Matthew Engel. John Wisden & Co.)
+
 Script works out those values, and so the index, for a given year and a few
 years previously.
 
